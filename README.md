@@ -10,3 +10,4 @@ I'm Informatic and dance lover so I can't work on a project without listening a 
 
 - 🔭 I’m currently working on AGM solutions
 - 🌱 I’m currently learning JWT Bearer, Entity Framework
+- 📫 How to reach me: sirianni.alessandro01@gmail.com
